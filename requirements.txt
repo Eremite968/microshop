@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-alembic
-sqlalchemy
-psycopg2-binary
-fastapi
-uvicorn
-=======
-alembic
-sqlalchemy
-psycopg2-binary
-fastapi
-uvicorn
->>>>>>> 9074d89 (Initial commit)
-pydantic
+SQLAlchemy~=2.1.0b1
+fastapi~=0.128.0
+pydantic~=2.12.5
+alembic~=1.18.3
