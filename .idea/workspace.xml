@@ -18,6 +18,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Eremite968"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Eremite968/microshop.git",
+    "accountId": "5f155158-c10a-40cd-83b3-d9043bd8bf44"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -29,46 +44,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for det4x4.TestDeterminant4x4.test_known_matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests_det4x4.TestDeterminant4x4.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in C:/project/test_determinant.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in det4x4.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in main.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_det4x4.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_determinant.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests_det4x4.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3lab.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.lab.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FIle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ForMyGirl.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MKR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.crud.executor&quot;: &quot;Run&quot;,
-    &quot;Python.det4x4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mkr2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_determinant.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/microshop&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for det4x4.TestDeterminant4x4.test_known_matrix.executor": "Run",
+    "Python tests.Python tests for tests_det4x4.TestDeterminant4x4.executor": "Run",
+    "Python tests.Python tests in C:/project/test_determinant.py.executor": "Run",
+    "Python tests.Python tests in det4x4.py.executor": "Run",
+    "Python tests.Python tests in main.py.executor": "Run",
+    "Python tests.Python tests in test_det4x4.py.executor": "Run",
+    "Python tests.Python tests in test_determinant.py.executor": "Run",
+    "Python tests.Python tests in tests.executor": "Run",
+    "Python tests.Python tests in tests_det4x4.py.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.21.executor": "Run",
+    "Python.3.1.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.3lab.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.5.lab.executor": "Run",
+    "Python.5_1.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.FIle.executor": "Run",
+    "Python.ForMyGirl.executor": "Run",
+    "Python.MKR.executor": "Run",
+    "Python.crud.executor": "Run",
+    "Python.det4x4.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mkr2.executor": "Run",
+    "Python.practics.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_determinant.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "C:/microshop",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\project\Images" />
