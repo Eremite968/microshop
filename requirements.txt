@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 alembic
 sqlalchemy
 psycopg2-binary
 fastapi
 uvicorn
+=======
+alembic
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+>>>>>>> 9074d89 (Initial commit)
 pydantic
